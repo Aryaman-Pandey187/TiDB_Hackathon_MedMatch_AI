@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TiDB_Hackathon_MedMatch_AI
 =======
 # MedMatch AI Fusion 🌍💡
