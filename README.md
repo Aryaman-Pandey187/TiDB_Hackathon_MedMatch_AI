@@ -1,6 +1,6 @@
 
 # TiDB_Hackathon_MedMatch_AI
-=======
+
 # MedMatch AI Fusion 🌍💡
 
 ![MedMatch Thumbnail](https://github.com/Aryaman-Pandey187/TiDB_Hackathon_MedMatch_AI/blob/main/MedMatch%20-%20thumbnail.jpg)  
