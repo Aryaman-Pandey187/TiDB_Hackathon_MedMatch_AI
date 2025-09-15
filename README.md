@@ -1,6 +1,6 @@
 # MedMatch AI Fusion 🌍💡
 
-![MedMatch Thumbnail](https://via.placeholder.com/600x400.png?text=MedMatch+AI+Fusion)  
+![MedMatch Thumbnail]([https://github.com/Aryaman-Pandey187/TiDB_Hackathon_MedMatch_AI/blob/master/MedMatch%20-%20thumbnail.jpg])  
 *Igniting AI to Guide You to Life-Changing Trials!*
 
 ## Overview 🎉
