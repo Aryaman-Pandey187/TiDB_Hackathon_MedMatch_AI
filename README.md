@@ -3,7 +3,7 @@
 =======
 # MedMatch AI Fusion 🌍💡
 
-![MedMatch Thumbnail](https://via.placeholder.com/600x400.png?text=MedMatch+AI+Fusion)  
+![MedMatch Thumbnail](https://github.com/Aryaman-Pandey187/TiDB_Hackathon_MedMatch_AI/blob/main/MedMatch%20-%20thumbnail.jpg)  
 *Igniting AI to Guide You to Life-Changing Trials!*
 
 ## Overview 🎉
@@ -59,4 +59,3 @@ Thanks to TiDB, Moonshot AI, AWS, and the hackathon community for this journey!
 
 *Star this repo if you love it! ⭐*  
 *Share the love: [Devpost Submission](https://devpost.com/software/medmatch-an-ai-to-connect-you-with-life-changing-trials)*
->>>>>>> master
